@@ -1,0 +1,10 @@
+pandas
+numpy
+scipy
+matplotlib
+openpyxl
+jupyter
+xgboost
+scikit-learn
+joblib
+fredapi
